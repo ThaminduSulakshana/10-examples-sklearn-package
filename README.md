@@ -19,5 +19,4 @@ Collection of practical examples demonstrating various machine learning tasks us
   - **scikit-learn:** Install using `pip install scikit-learn`.
   - **Jupyter Notebook (optional):** Install with `pip install notebook`.
   - **Additional Libraries:** Install necessary libraries using `pip install matplotlib pandas numpy`.
-  - **Git (optional):** Install from [git-scm.com](https://git-scm.com/downloads).
-  - **Code Editor:** Use your preferred code editor or IDE.
+  - **Google Colab account** for running notebooks in the cloud.

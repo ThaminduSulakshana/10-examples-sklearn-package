@@ -3,7 +3,7 @@ Collection of practical examples demonstrating various machine learning tasks us
 
 ## Table of Contents
 
-- **Data Analysis with scikit-learn:** Explore datasets using scikit-learn's data preprocessing and analysis tools.
+- **Data Analysis with scikit-learn(https://github.com/ThaminduSulakshana/10-examples-sklearn-package/blob/main/01-Data%20analysis%20with%20sklearn.ipynb)** Explore datasets using scikit-learn's data preprocessing and analysis tools.
 - **Linear Regression with scikit-learn:** Implement linear regression models for predictive modeling tasks.
 - **Predicting Electrical Energy Consumption:** Use machine learning techniques to predict electrical energy consumption patterns.
 - **House Sales Data Analysis:** Analyze and predict housing prices using regression models.
